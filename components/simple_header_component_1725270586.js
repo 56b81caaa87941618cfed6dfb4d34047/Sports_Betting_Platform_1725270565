@@ -1,5 +1,5 @@
 <template>
-  <div id="uniswap-v2-interface" style="min-height: 430px" class="bg-gray-100 p-8 rounded-lg shadow-lg">
+  <div id="uniswap-v2-interface" style="min-height: 630px"  class="bg-gray-100 p-8 rounded-lg shadow-lg">
     <h2 id="component-title" class="text-2xl font-bold mb-6 text-purple-700">Uniswap V2 Interface</h2>
     
     <div id="token-input" class="mb-4">
