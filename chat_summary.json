@@ -6,5 +6,11 @@
         "timestamp": "1725270568",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "Change this to a component for interacting with uniswap v2",
+        "timestamp": "02092024095034",
+        "message_id": "guest02092024095033"
     }
 ]
