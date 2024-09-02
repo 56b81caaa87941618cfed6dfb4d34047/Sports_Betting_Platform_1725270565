@@ -12,5 +12,11 @@
         "content": "Change this to a component for interacting with uniswap v2",
         "timestamp": "02092024095034",
         "message_id": "guest02092024095033"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm working on creating a component for Uniswap v2 interaction.",
+        "timestamp": "02092024095034",
+        "message_id": "guest02092024095033"
     }
 ]
