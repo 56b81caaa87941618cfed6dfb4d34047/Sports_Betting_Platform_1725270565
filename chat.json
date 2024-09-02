@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionalities do you want the Uniswap V2 component to have?\", \"option1\": \"Basic swap functionalities only\", \"option2\": \"Advanced features like liquidity provision and analytics\"}, {\"question 2\": \"How would you like the visual design of the component to align with the rest of your app?\", \"option1\": \"Maintain the current app design style\", \"option2\": \"Revamp the design for a modern look\"}], \"input_token_count\": 299, \"output_token_count\": 104, \"time_taken\": \"0:00:02.051148\"}",
+        "message_id": "guest02092024095033",
+        "timestamp": "02092024095037",
+        "component_file_name": "simple_header_component_1725270586",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change this to a component for interacting with uniswap v2",
         "message_id": "guest02092024095033",
