@@ -15,5 +15,14 @@
         "component_file_name": "simple_header_component_1725270586",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm working on creating a component for Uniswap v2 interaction.",
+        "message_id": "guest02092024095033",
+        "timestamp": "02092024095034",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
